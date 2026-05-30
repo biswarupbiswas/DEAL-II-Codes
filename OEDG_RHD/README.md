@@ -23,7 +23,7 @@ This project is a high-performance C++ port of a Discontinuous Galerkin (DG) sol
 ## How to Build
 1. Navigate to the project directory:
    ```bash
-   cd /home/biswarup-biswas/git_workspace/RHD-ESDG/dealii_rhd
+   cd /home/biswarup-biswas/git_workspace/DEAL-II-Codes/OEDG_RHD
    ```
 2. Generate the Makefile using CMake (Force Release mode for maximum speed):
    ```bash
