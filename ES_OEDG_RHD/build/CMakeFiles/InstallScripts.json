@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/biswarup-biswas/git_workspace/DEAL-II-Codes/ES_OEDG_RHD/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

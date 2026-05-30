@@ -1,0 +1,24 @@
+# output files
+*.vtk
+
+# Documentation
+THEORY.md
+DEAL_II_INSTALLATION.md
+
+# Log files
+*.log
+
+# Executable
+rhd_dg
+
+# IDE settings
+.vscode/
+.venv/
+
+
+# plot files
+# *.py
+
+# Non sharable files for copyright
+Reading/
+rhd_dg.cc
