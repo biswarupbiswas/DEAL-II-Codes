@@ -1,0 +1,4 @@
+/home/biswarup-biswas/git_workspace/dealii_rhd/CMakeFiles/rhd_dg.dir
+/home/biswarup-biswas/git_workspace/dealii_rhd/CMakeFiles/cleanall.dir
+/home/biswarup-biswas/git_workspace/dealii_rhd/CMakeFiles/edit_cache.dir
+/home/biswarup-biswas/git_workspace/dealii_rhd/CMakeFiles/rebuild_cache.dir

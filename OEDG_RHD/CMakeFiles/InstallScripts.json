@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/biswarup-biswas/git_workspace/dealii_rhd/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
